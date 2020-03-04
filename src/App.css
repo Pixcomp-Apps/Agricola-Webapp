@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.Button-Login{
+  border-radius: 30px;
+}
+
+.Modal-center{
+  text-align: center;
+}
+.logo-img{
+  max-width: 50%;
+}
+
+.footer{
+  text-align: center;
+}
+
